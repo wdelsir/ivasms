@@ -1,4 +1,0 @@
-__pycache__/
-*.pyc
-.env
-sent_sms.json
